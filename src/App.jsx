@@ -1,8 +1,10 @@
-import { useState } from "react";
+import TopBar from "./components/Navbar/topbar";
 import "./App.css";
 
-function App() {
-  return <div></div>;
+export default function App() {
+  return (
+    <>
+      <TopBar />
+    </>
+  );
 }
-
-export default App;
