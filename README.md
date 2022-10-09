@@ -1,4 +1,4 @@
-# Leetcode Blog
+# Leetcode Blog (On-going Project)
 
 ## Description
 
